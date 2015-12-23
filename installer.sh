@@ -4,7 +4,7 @@
 # Author: H.R.Shadhin, NutBoltu 2015
 #-------------------------------------------------------------------------------
 #  
-# This script will compile and installNutBoltu Heax Creator on
+# This script will compile and install NutBoltu Heax Creator on
 #-------------------------------------------------------------------------------
 # USAGE:
 #
